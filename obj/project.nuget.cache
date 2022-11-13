@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqPjnq8DHSdrXsKvJQB7NpAnexceht4eBwUqWzaKLqb2r2X9a6O7XyrO3L02+C7+U/MwSYeDv6AFdL5unjmctQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monsa\\RiderProjects\\practice-two\\practice-two.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monsa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

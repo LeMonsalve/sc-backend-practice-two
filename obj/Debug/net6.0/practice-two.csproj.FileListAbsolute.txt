@@ -1,0 +1,17 @@
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\practice-two.exe
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\practice-two.deps.json
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\practice-two.runtimeconfig.json
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\practice-two.dll
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\practice-two.pdb
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.csproj.AssemblyReference.cache
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.AssemblyInfoInputs.cache
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.AssemblyInfo.cs
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.csproj.CoreCompileInputs.cache
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.dll
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\refint\practice-two.dll
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.pdb
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.genruntimeconfig.cache
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\ref\practice-two.dll
+C:\Users\monsa\RiderProjects\practice-two\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\monsa\RiderProjects\practice-two\obj\Debug\net6.0\practice-two.csproj.CopyComplete
